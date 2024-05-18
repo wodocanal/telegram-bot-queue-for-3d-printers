@@ -1,6 +1,5 @@
 token.txt
 models/*
 __pycache__/*
-data_models.csv
-data_users.csv
+*.csv
 test.py
